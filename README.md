@@ -1,9 +1,9 @@
 # microservice
 Create a micro-service with the following endpoint:
 
--GET/current/{symbol}
+* GET /current/{symbol}
 
--GET/current/all
+* GET /current/all
 
 # How to use
 run script api.py
