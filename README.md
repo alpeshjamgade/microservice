@@ -13,6 +13,9 @@ pip install -r requirements.txt
 
 # Example
 GET/current/{symbol}
+* http://127.0.0.1:5000/api/currency/ETHBTC
+* http://127.0.0.1:5000/api/currency/BTCUSD
+
 `
 {
 "id": "ETH",
@@ -28,6 +31,8 @@ GET/current/{symbol}
 `
 
 GET /currency/all
+* http://127.0.0.1:5000/api/currency/all
+
 `
 [
   {
