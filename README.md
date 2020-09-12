@@ -9,6 +9,8 @@ Create a micro-service with the following endpoint:
 run script api.py
 
 # Dependencies
+Install all the required packages
+
 pip install -r requirements.txt
 
 # Example
