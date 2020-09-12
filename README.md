@@ -6,7 +6,7 @@ Create a micro-service with the following endpoint:
 * GET /current/all
 
 # How to use
-run script api.py
+run the python script api.py
 
 # Dependencies
 Install all the required packages
